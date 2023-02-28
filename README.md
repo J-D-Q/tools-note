@@ -137,6 +137,11 @@ https://github.com/Avienma/Gobypass
 https://github.com/Yihsiwei/GoFileBinder
 ### 利用golang各种姿势bypassAV
 https://github.com/safe6Sec/GolangBypassAV
+### 被选入LOLBAS项目的文件或脚本必须满足以下三个条件：
+    是Microsoft签名的文件，可以是操作系统本身的文件，也可以是从Microsoft下载的文件。
+    具有额外的”意外”功能。
+    拥有对APT团队以及红队有用的功能。
+https://github.com/LOLBAS-Project/LOLBAS
 
 
 # 提权
@@ -163,9 +168,9 @@ https://github.com/rootclay/Powershell-Attack-Guide
 https://github.com/Svti/Axis2Shell
 ### 远控免杀系列文章及配套工具
 https://github.com/TideSec/BypassAntiVirus
-
-
-
+### 红队知识库
+https://github.com/guchangan1/All-Defense-Tool
+https://github.com/Threekiii/Awesome-Redteam
 
 
 
