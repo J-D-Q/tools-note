@@ -6,6 +6,8 @@ https://github.com/HavocFramework/Havoc
 https://github.com/H4de5-7/geacon_pro
 ### Custom Command and Control (C3). 
 https://github.com/WithSecureLabs/C3
+### 一个无法检测到的 C2 服务器，它通过 Google SMTP 进行通信以逃避防病毒保护和网络流量限制。
+https://github.com/machine1337/gmailc2
 
 # 内网
 ## 横向
