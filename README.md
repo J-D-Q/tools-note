@@ -8,6 +8,8 @@ https://github.com/H4de5-7/geacon_pro
 https://github.com/WithSecureLabs/C3
 ### 一个无法检测到的 C2 服务器，它通过 Google SMTP 进行通信以逃避防病毒保护和网络流量限制。
 https://github.com/machine1337/gmailc2
+### Gh0st2023远控RAT、重写大灰狼远控RAT核心功能与组件模块、免杀主流防病毒软件
+https://github.com/SecurityNo1/Gh0st2023
 
 # 内网
 ## 横向
