@@ -216,7 +216,8 @@ https://github.com/TideSec/Decrypt_Weblogic_Password
 ### 适用于weblogic和Tomcat的无文件的内存马(memshell)
 https://github.com/keven1z/weblogic_memshell
 
-
+### 若依懒人利用
+https://github.com/G0mini/PyBy2
 
 
 
