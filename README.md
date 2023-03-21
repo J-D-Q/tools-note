@@ -191,6 +191,7 @@ https://github.com/c0ny1/jsEncrypter
 https://github.com/TheKingOfDuck/burpFakeIP
 ### api接口探测
 https://github.com/API-Security/APIKit
+
 ## 摄像头漏洞
 https://github.com/zzheff/FATSuite
 
@@ -203,6 +204,8 @@ https://github.com/soxoj/maigret
 
 ## 云环境利用
 https://github.com/teamssix/cf
+七牛云查看
+https://github.com/qiniu/kodo-browser
 
 ## jndi注入工具
 https://github.com/exp1orer/JNDI-Inject-Exploit
