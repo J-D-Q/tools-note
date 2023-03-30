@@ -119,6 +119,8 @@ https://github.com/bdamele/icmpsh
 
 
 # 免杀
+### 免杀360，火绒的Python-shellcode加载器，可直接生成可执行文件exe
+https://github.com/langsasec/c2-shellcode-py
 ### powershell混淆免杀
 https://github.com/danielbohannon/Invoke-Obfuscation
 https://github.com/H4de5-7/powershell-bypass
