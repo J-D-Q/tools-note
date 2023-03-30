@@ -68,6 +68,8 @@ https://github.com/projectdiscovery/nuclei
 https://github.com/hktalent/scan4all
 
 ## 隧道工具
+### 利用go语言编写、专为渗透测试工作者制作的多级代理工具
+https://github.com/ph4ntonn/Stowaway
 ### http隧道工具
 https://github.com/sensepost/reGeorg
 https://github.com/L-codes/Neo-reGeorg
