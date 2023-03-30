@@ -1,5 +1,5 @@
 # tools-note
-常用工具收集
+
 # C2
 https://github.com/HavocFramework/Havoc
 ### 跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。
@@ -10,6 +10,8 @@ https://github.com/WithSecureLabs/C3
 https://github.com/machine1337/gmailc2
 ### Gh0st2023远控RAT、重写大灰狼远控RAT核心功能与组件模块、免杀主流防病毒软件
 https://github.com/SecurityNo1/Gh0st2023
+### Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
+https://github.com/tdragon6/Supershell
 
 # 内网
 ## 横向
@@ -32,7 +34,8 @@ https://github.com/rootclay/WMIHACKER
 https://github.com/1n7erface/RequestTemplate
 ### UAC bypass for x64 Windows 7 - 11
 https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC
-
+### 研究利用golang各种姿势bypassAV
+https://github.com/safe6Sec/GolangBypassAV
 
 ## 域渗透
 ### CrackMapExec是一款针对Windows活动目录(AD)进行渗透测试的精巧工具集。项目组成该项目采用了Impacket项目里很多有用的网络协议类。
