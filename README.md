@@ -12,6 +12,9 @@ https://github.com/machine1337/gmailc2
 https://github.com/SecurityNo1/Gh0st2023
 ### Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
 https://github.com/tdragon6/Supershell
+### .net编写c2
+https://github.com/DragoQCC/HardHatC2
+
 
 # 内网
 ## 横向
