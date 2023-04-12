@@ -165,6 +165,7 @@ https://github.com/zcgonvh/DCOMPotato
 https://github.com/bugch3ck/SharpEfsPotato
 https://github.com/antonioCoco/JuicyPotatoNG
 https://github.com/wh0amitz/PetitPotato
+https://github.com/BeichenDream/GodPotato
 
 ## windows 提权
 ### Windows 平台提权漏洞大合集，长期收集各种提权漏洞利用工具
