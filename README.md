@@ -39,6 +39,8 @@ https://github.com/1n7erface/RequestTemplate
 https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC
 ### 研究利用golang各种姿势bypassAV
 https://github.com/safe6Sec/GolangBypassAV
+###  AV/EDR Evasion tool created to bypass security tools for learning
+https://github.com/0xHossam/Killer
 
 ## 域渗透
 ### CrackMapExec是一款针对Windows活动目录(AD)进行渗透测试的精巧工具集。项目组成该项目采用了Impacket项目里很多有用的网络协议类。
