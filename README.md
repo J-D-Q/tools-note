@@ -18,6 +18,9 @@ https://github.com/DragoQCC/HardHatC2
 
 # 内网
 ## 横向
+### dump hash
+https://github.com/Avienma/DumpHash
+
 ### 密码凭证收集
 https://github.com/AlessandroZ/LaZagne
 ### 内网渗透辅助工具集
