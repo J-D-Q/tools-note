@@ -70,6 +70,8 @@ https://github.com/fortra/impacket
 
 # 外网
 
+## web黑盒fuzz
+https://github.com/Brum3ns/firefly
 ## 漏扫框架、poc
 https://github.com/projectdiscovery/nuclei-templates
 https://github.com/projectdiscovery/nuclei
